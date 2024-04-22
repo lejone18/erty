@@ -1,0 +1,307 @@
+id,bullying_words,type_bully
+1000,Hate,bully
+1001,Insult  ,bully
+1002,Threat   ,bully
+1003,Mockery  ,bully
+1004,Tease     ,bully
+1005,Disagree ,non
+1006,Debate   ,non
+1007,Dislike   ,non
+1008,Criticize ,non
+1009,Disagree   ,non
+1010,"You're so dumb, you can't even understand simple things",bully
+1011,Why are you even here? Nobody likes you,bully
+1012,"You're such a loser, always trying to fit in but never succeeding",bully
+1013,Nobody cares about what you have to say. Just shut up already,bully
+1014,You're ugly and nobody will ever love you,bully
+1015,I can't believe how pathetic you are. Get a life!,bully
+1016,You're a waste of space. Why don't you just disappear?,bully
+1017,Everyone laughs at you behind your back because you're a joke,bully
+1018,You'll never amount to anything. Might as well give up now,bully
+1019,Nobody wants to be around you. You're better off alone,bully
+1020,You're such a crybaby. Can't handle a little criticism?,bully
+1021,Why do you even bother trying? You'll never be good enough.,bully
+1022,You're so weak. I can't believe you let things get to you.,bully
+1023,You are a loser and always will be. Just accept it,bully
+1024,You're so boring. Nobody wants to hear what you have to say,bully
+1025,You're such a try-hard. Just give up already.,bully
+1026,Why are you even alive? You contribute nothing to this world.,bully
+1027,You're so fat and ugly. No wonder nobody likes you.,bully
+1028,You're so worthless. I don't know why anyone would be friends with you.,bully
+1029,You're such a failure. Just stop embarrassing yourself,bully
+1030,You're a joke. Everyone laughs at how pathetic you are.,bully
+1031,Nobody cares about your feelings. You're just an inconvenience.,bully
+1032,You're so annoying. Just go away and leave us alone.,bully
+1033,You'll never succeed at anything. Might as well give up now.,bully
+1034,Why do you even bother trying? You'll never be good enough.,bully
+1035,You're so weak. I can't believe you let things get to you.,bully
+1036,You're such a disappointment. I expected better from you.,bully
+1037,You're such a burden. Nobody wants to deal with your problems,bully
+1038,You're so useless. Can't even do the simplest tasks right.,bully
+1039,You're a waste of space. Nobody would miss you if you were gone,bully
+1040,You're doing great! Keep up the good work,non
+1041,You're a wonderful person inside and out.,non
+1042,You always bring positivity to those around you,non
+1043,You're making a difference in people's lives.,non
+1044,You have a beautiful soul that shines brightly,non
+1045,You're so talented and capable. Believe in yourself!,non
+1046,You're a ray of sunshine on even the gloomiest days,non
+1047,You're valuable and worthy of all the good things in life.,non
+1048,You inspire others with your kindness and compassion.,non
+1049,You're not alone. We're here to support you.,non
+1050,Oa phapha,bully
+1051,letekatsi,bully
+1052,lefetoa,bully
+1053,moleko,bully
+1054,satane,bully
+1055,mosima,bully
+1056,sekatana,bully
+1057,baehlotse,bully
+1058,sepepeloa le borotho,bully
+1059,o nyamoleile,bully
+1060,lekoala,bully
+1061,mphophotha,bully
+1062,sehole,bully
+1063,tseketseke,bully
+1064,O hatile lipapa,bully
+1065,Lefatsheng mona hase ha mmao,bully
+1066,You are a failure,bully
+1067,U sehole,bully
+1068,You're worthless,bully
+1069,Nxa,bully
+1070,Siche hlooho,bully
+1071,loser,bully
+1072,Lefatsheng mona hase ha mmao,bully
+1073,You're such a failure. Look at all the mistakes you've made.,bully
+1074,You're nothing but a waste of space. Nobody needs you.,bully
+1075,I can't believe how useless you are. Can't you do anything right?,bully
+1076,You're a disgrace to everyone around you. Just disappear.,bully
+1077,Why do you even bother trying? You'll never succeed.,bully
+1078,You're such a disappointment. I expected better from you.,bully
+1079,Nobody cares about your feelings. Stop being so sensitive.,bully
+1080,You're so pathetic. No wonder nobody respects you.,bully
+1081,You're just a burden on everyone. Stop being so needy.,bully
+1082,You're so weak. Can't you stand up for yourself?,bully
+1083,You'll never amount to anything. Might as well give up now.,bully
+1084,You're such a coward. Always running away from your problems.,bully
+1085,You're such a fool. Can't you see how everyone laughs at you?,bully
+1086,You're so incompetent. I don't know why anyone would hire you.,bully
+1087,You're so boring. Nobody wants to hear your dull stories.,bully
+1088,"""Why don't you just disappear? Nobody would miss you.",bully
+1089,You're such a joke. Just give up already.,bully
+1090,You're a loser. Face it and move on.,bully
+1091,You're so annoying. Can't you see we're ignoring you?,bully
+1092,You're such a pest. Always bothering everyone.,bully
+1093,You're such a burden. Can't you handle anything on your own?,bully
+1094,You're such a mess. Clean up your act.",bully
+1095,You're so clumsy. Can't you do anything without messing it up?",bully
+1096,You're such a troublemaker. Always causing problems.",bully
+1097,You're such a disappointment. I regret ever knowing you.,bully
+1098,You're such a faker. Nobody believes your lies.,bully
+1099,You're so selfish. Always thinking about yourself.,bully
+1100,You're so ugly. Can't you do something about your appearance?,bully
+1101,You're so awkward. Can't you act normal for once?",bully
+1102,You're so desperate. Can't you get attention any other way,bully
+1105,Encourage,non-bully
+1106,Support,non-bully
+1107,Appreciate,non-bully
+1108,Validate,non-bully
+1109,Affirm,non-bully
+1110,Compliment,non-bully
+1111,Empower,non-bully
+1112,Inspire,non-bully
+1113,Comfort,non-bully
+1114,Reassure,non-bully
+1115,You're making progress. Keep going!,non-bully
+1116,You're capable of achieving great things. Believe in yourself.,non-bully
+1117,Your efforts are making a difference. Keep it up!,non-bully
+1118,You're valuable and worthy of respect.,non-bully
+1119,You're not alone. I'm here for you.,non-bully
+1120,You're stronger than you think. You can overcome this.,non-bully
+1121,You're unique and special in your own way.",non-bully
+1122,You have the courage to face any challenge.,non-bully
+1123,"You're a good person, and you deserve happiness.""",non-bully
+1124,You're making a positive impact on those around you.",non-bully
+1125,You have the ability to learn and grow from your experiences.",non-bully
+1126,You're deserving of love and kindness.",non-bully
+1127,You're capable of handling whatever comes your way.,non-bully
+1128,"""You're doing your best, and that's enough.",non-bully
+1129,"""You're important and valued by those who know you.""",non-bully
+1130,"""You're resilient. You can bounce back from setbacks.""",non-bully
+1131,"""You're appreciated for who you are, flaws and all.""",non-bully
+1132,"""You're on the right path. Keep moving forward.""",non-bully
+1133,"""You're intelligent and capable of solving problems.""",non-bully
+1134,"""You're respected for your integrity and honesty.""",non-bully
+1135,"""You're a source of positivity and light.""",non-bully
+1136,"""You're loved and cherished by those who matter.""",non-bully
+1137,"""You're worthy of all the good things life has to offer.",non-bully
+1138,"""You're making a difference in the world.""",non-bully
+1139,"""You're brave for facing your fears.""",non-bully
+1140,"""You're not defined by your mistakes. Learn and grow.""",non-bully
+1141,"""You're a beacon of hope for others.""",non-bully
+1142,You're appreciated for your hard work and dedication.,non-bully
+1143,"""You're a role model for those around you.""",non-bully
+1144,"""You're enough, just as you are",non-bully
+1145,u sefelekoane,bully
+1146,u mankhoshepe,bully
+1147,u sebotho,bully
+1148,wena u lemina,bully
+1149,u lempete,bully
+1150,wena u lihele,bully
+1151,u moloi hampe,bully
+1152,sekokotoana towe,bully
+1153,sethotsela towe,bully
+1154,malinkoana,bully
+1155,nthoesele towe,bully
+1156,thokolosi towe,bully
+1157,u lelinyane la fariki,bully
+1158,nthoe mpe ea,bully
+1159,lelinyane towe,bully
+1160,liabolosi towe,bully
+1161,u marokolo,bully
+1162,u tseketseke,bully
+1163,u hene-hene,bully
+1164,chakase mapota,bully
+1165,seale malapa,bully
+1166,ngoana mots'o enoa,bully
+1167,nkahlama towe,bully
+1168,fariki towe,bully
+1169,ntja towe,bully
+1170,fuck you ,bully
+1171,voetsek,bully
+1172,fotsek,bully
+1173,fokof,bully
+1174,ksooo,bully
+1175,sebopuwa,bully
+1176,lesofe towe,bully
+1177,letla-lepepuwe,bully
+1178,u mobe,bully
+1179,ua nkha,bully
+1180,ua ts'abeha,bully
+1181,u lits'ila,bully
+1182,mankhane towe,bully
+1183,nxaaaaaa,bully
+1184,sebolu towe,bully
+1185,u bolile,bully
+1186,moketa towe,bully
+1187,bosulu towe,bully
+1188,lelinyane la thokolosi,bully
+1189,ts'oene towe,bully
+1190,hopeless,bully
+1191,noha,bully
+1192,u ntho esele,bully
+1193,u nthofela,bully
+1194,u lekesi,bully
+1195,u mokoto,bully
+1196,ua khala,bully
+1197,wortless,bully
+1198,u mohetene,bully
+1199,We love you,non-bully
+1200,moshemane ,bully
+1201,monna kaofela,non-bully
+1202,mosali kaofela,non-bully
+1203,morapeli oa sebele,non-bully
+1204,motlotsuoa oa morena,non-bully
+1205,mora molimo,non-bully
+1206,matjekela ,bully
+1207,nyanya mpe,bully
+1208,o mobe,bully
+1209,seleee tooe,bully
+1210,foolish,bully
+1211,provider,non-bully
+1212,life saviour,non-bully
+1213,redemmer,non-bully
+1214,bread winner,non-bully
+1215,winner,non-bully
+1216,champion,non-bully
+1217,useless,bully
+1218,whore,bully
+1219,useful,non-bully
+1220,Ho utloisa ba bang bohloko ho ke ke ha lokisa mathata a hao.,non-bully
+1221,Emela metsoalle ea hau 'me ba tla u emela.,non-bully
+1222,Ho beha ba bang fatše ho ke ke ha u holisa.,non-bully
+1223,Tsohle bakeng sa e le nngwe le e le nngwe bakeng sa bohle.,non-bully
+1224,Mmampodi. Ha ho Tsela. (Ho tsoa 'Musong oa Australia),non-bully
+1225,U tšoara lintsintsi tse ngata ka mahe a linotši ho feta ka asene!,non-bully
+1226,Banna ba lokileng ha ba 'mampoli.,non-bully
+1227,Ha ho ntho e kang ho soma ka botsoalle.,non-bully
+1228,Ka linako tse ling ho thata ho ba monate ho feta ho bolela.,non-bully
+1229,Emela mohlankana e monyenyane,non-bully
+1230,Bompoli ke pefo ea maikutlo.,non-bully
+1231,Mampoli ke lekoala. Motsoalle ke mohale.,non-bully
+1232,Sebaka sa Mahala sa Bo-'mampoli.,non-bully
+1233,Bo-'mampoli ha ba sireletsehe ka bona.,non-bully
+1234,"Ha u se u holile, bompoli sekolong e tla ba masoabi a hao a maholo.",non-bully
+1235,Bompoli bo tšeha litšenyehelo tsa motho e mong’.,non-bully
+1236,"Haeba u bona ho hong, bua ho hong.",non-bully
+1237,"Bompoli: E-ba Bohlale, U se ke Ua Qala.",non-bully
+1238,"Re tla ka Libopeho tsohle le boholo. Sekolong sa rona, re Amohela Tsohle.",non-bully
+1239,Bompoli ke Tlolo ea Molao.,non-bully
+1240,"Haeba u sa khone ho bua ntho e mosa, u se ke ua bua letho ho hang.",non-bully
+1241,Bo-'mampoli ke li-wimps ho Disguise.,non-bully
+1242,Lentsoe la Hao ke Libetsa. Na u tla li sebelisa bakeng sa Molemo kapa o Mobe?,non-bully
+1243,Ha o tsebe hore na motho e mong o feta hara eng. Li tšoare ka bonolo!,non-bully
+1244,Batla ba Khutsitseng le ba Hlomohileng. Ba hloka motsoalle.,non-bully
+1245,Sebaka sa Qenehelo.,non-bully
+1246,Mantsoe a ka ba Kotsi ho feta Libetsa.,non-bully
+1247,Mantsoe a Mosa a ka pholosa Lefatše.,non-bully
+1248,Mantsoe a hau ke khetho ea hau.,non-bully
+1249,E mong le e mong oa Amoheloa. E Mong le e Mong ke.,non-bully
+1250,Ho tseba se nepahetseng ha ho bolele letho ntle le haeba u etsa se nepahetseng.,non-bully
+1251,Liketso tsa hau li baloa. Ema ho Bompoli.,non-bully
+1252,Bompoli bo Bobe. E utloisa Ba bang bohloko.,non-bully
+1253,U se ke ua khutsa ha u tobane le ho hloka toka.,non-bully
+1254,U na le Khetho ea ho Phahamisana kapa ho Hulelana.,non-bully
+1255,otlanya maqhekoana ntja tooe,bully
+1256,rarollotsoe,bully
+1257,ascetic,bully
+1258,ascetical,bully
+1259,monastic,bully
+1260,monkish,bully
+1261,e thekeseleng,bully
+1262,manganga a moulo,bully
+1263,tiile,bully
+1264,sa kgathatseheng,bully
+1265,sa feleng,bully
+1266,ikemiselitse ho leka hlee,bully
+1267,ea sa tsitsang ka hloohong ka mona,bully
+1268,hlokang mohau satane ,bully
+1269,bohlasoa,bully
+1270,a ba bohale ngoana lefetoa,bully
+1271,rour,bully
+1272,ea hlokang mohau moleko,bully
+1273,ea tiileng pelo ena ruri ke moleko,bully
+1274,kelello e le 'ngoe,bully
+1275,sa sekisetseng,bully
+1276,ntjatsoe,bully
+1277,e sa tsitsang,bully
+1278,thatafetse,bully
+1279,e sa kobehang,bully
+1280,tsitlella,bully
+1281,mohala o thata,bully
+1282,ho se tšoarele,bully
+1283,e sa ineheleng,bully
+1284,e hlokang qenehelo,bully
+1285,bolaoli,bully
+1286,e sa sisinyeheng,bully
+1287,batla,bully
+1288,sa tenyetseheng,bully
+1289,e matla,bully
+1290,ossified,bully
+1291,hlokang mohau ntho tooe,bully
+1292,e thata hlooho,bully
+1293,adamantine,bully
+1294,e nepahetseng,bully
+1295,thatafetse,bully
+1296,bohale,bully
+1297,pelo e thata,bully
+1298,a thata matsoho,bully
+1299,o thatafetse ,bully
+1300,u  thata,bully
+1301,e thatafetse,bully
+1302,boima,bully
+1303,flinty,bully
+1304,e ribetsoeng ka majoe,bully
+1305,letla le pepiloe  ,bully
+1306,ramrode,bully
+1307,ka thata,bully

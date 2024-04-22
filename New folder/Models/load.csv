@@ -1,0 +1,469 @@
+id,bullying_words,type_bully
+1,Hate,bully
+2,Insult  ,bully
+3,Threat   ,bully
+4,Mockery  ,bully
+5,Tease     ,bully
+6,Disagree ,non-bully
+7,Debate   ,non-bully
+8,Dislike   ,non-bully
+9,Criticize ,non-bully
+10,Disagree   ,non-bully
+11,"You're so dumb, you can't even understand simple things",bully
+12,Why are you even here? Nobody likes you,bully
+13,"You're such a loser, always trying to fit in but never succeeding",bully
+14,Nobody cares about what you have to say. Just shut up already,bully
+15,You're ugly and nobody will ever love you,bully
+16,I can't believe how pathetic you are. Get a life!,bully
+17,You're a waste of space. Why don't you just disappear?,bully
+18,Everyone laughs at you behind your back because you're a joke,bully
+19,You'll never amount to anything. Might as well give up now,bully
+20,Nobody wants to be around you. You're better off alone,bully
+21,You're such a crybaby. Can't handle a little criticism?,bully
+22,Why do you even bother trying? You'll never be good enough.,bully
+23,You're so weak. I can't believe you let things get to you.,bully
+24,You are a loser and always will be. Just accept it,bully
+25,You're so boring. Nobody wants to hear what you have to say,bully
+26,You're such a try-hard. Just give up already.,bully
+27,Why are you even alive? You contribute nothing to this world.,bully
+28,You're so fat and ugly. No wonder nobody likes you.,bully
+29,You're so worthless. I don't know why anyone would be friends with you.,bully
+30,You're such a failure. Just stop embarrassing yourself,bully
+31,You're a joke. Everyone laughs at how pathetic you are.,bully
+32,Nobody cares about your feelings. You're just an inconvenience.,bully
+33,You're so annoying. Just go away and leave us alone.,bully
+34,You'll never succeed at anything. Might as well give up now.,bully
+35,Why do you even bother trying? You'll never be good enough.,bully
+36,You're so weak. I can't believe you let things get to you.,bully
+37,You're such a disappointment. I expected better from you.,bully
+38,You're such a burden. Nobody wants to deal with your problems,bully
+39,You're so useless. Can't even do the simplest tasks right.,bully
+40,You're a waste of space. Nobody would miss you if you were gone,bully
+41,You're doing great! Keep up the good work,non-bully
+42,You're a wonderful person inside and out.,non-bully
+43,You always bring positivity to those around you,non-bully
+44,You're making a difference in people's lives.,non-bully
+45,You have a beautiful soul that shines brightly,non-bully
+46,You're so talented and capable. Believe in yourself!,non-bully
+47,You're a ray of sunshine on even the gloomiest days,non-bully
+48,You're valuable and worthy of all the good things in life.,non-bully
+49,You inspire others with your kindness and compassion.,non-bully
+50,You're not alone. We're here to support you.,non-bully
+51,Oa phapha,bully
+52,letekatsi,bully
+53,lefetoa,bully
+54,moleko,bully
+55,satane,bully
+56,mosima,bully
+57,sekatana,bully
+58,baehlotse,bully
+59,sepepeloa le borotho,bully
+60,o nyamoleile,bully
+61,lekoala,bully
+62,mphophotha,bully
+63,sehole,bully
+64,tseketseke,bully
+65,O hatile lipapa,bully
+66,Lefatsheng mona hase ha mmao,bully
+67,You are a failure,bully
+68,U sehole,bully
+69,You're worthless,bully
+70,Nxa,bully
+71,Siche hlooho,bully
+72,loser,bully
+73,Lefatsheng mona hase ha mmao,bully
+74,You're such a failure. Look at all the mistakes you've made.,bully
+75,You're nothing but a waste of space. Nobody needs you.,bully
+76,I can't believe how useless you are. Can't you do anything right?,bully
+77,You're a disgrace to everyone around you. Just disappear.,bully
+78,Why do you even bother trying? You'll never succeed.,bully
+79,You're such a disappointment. I expected better from you.,bully
+80,Nobody cares about your feelings. Stop being so sensitive.,bully
+81,You're so pathetic. No wonder nobody respects you.,bully
+82,You're just a burden on everyone. Stop being so needy.,bully
+83,You're so weak. Can't you stand up for yourself?,bully
+84,You'll never amount to anything. Might as well give up now.,bully
+85,You're such a coward. Always running away from your problems.,bully
+86,You're such a fool. Can't you see how everyone laughs at you?,bully
+87,You're so incompetent. I don't know why anyone would hire you.,bully
+88,You're so boring. Nobody wants to hear your dull stories.,bully
+89,"""Why don't you just disappear? Nobody would miss you.",bully
+90,You're such a joke. Just give up already.,bully
+91,You're a loser. Face it and move on.,bully
+92,You're so annoying. Can't you see we're ignoring you?,bully
+93,You're such a pest. Always bothering everyone.,bully
+94,You're such a burden. Can't you handle anything on your own?,bully
+95,You're such a mess. Clean up your act.",bully
+96,You're so clumsy. Can't you do anything without messing it up?",bully
+97,You're such a troublemaker. Always causing problems.",bully
+98,You're such a disappointment. I regret ever knowing you.,bully
+99,You're such a faker. Nobody believes your lies.,bully
+100,You're so selfish. Always thinking about yourself.,bully
+101,You're so ugly. Can't you do something about your appearance?,bully
+102,You're so awkward. Can't you act normal for once?",bully
+103,You're so desperate. Can't you get attention any other way,bully
+104,Encourage,non-bully
+105,Support,non-bully
+106,Appreciate,non-bully
+107,Validate,non-bully
+108,Affirm,non-bully
+109,Compliment,non-bully
+110,Empower,non-bully
+111,Inspire,non-bully
+112,Comfort,non-bully
+113,Reassure,non-bully
+114,You're making progress. Keep going!,non-bully
+115,You're capable of achieving great things. Believe in yourself.,non-bully
+116,Your efforts are making a difference. Keep it up!,non-bully
+117,You're valuable and worthy of respect.,non-bully
+118,You're not alone. I'm here for you.,non-bully
+119,You're stronger than you think. You can overcome this.,non-bully
+120,You're unique and special in your own way.",non-bully
+121,You have the courage to face any challenge.,non-bully
+122,"You're a good person, and you deserve happiness.""",non-bully
+123,You're making a positive impact on those around you.",non-bully
+124,You have the ability to learn and grow from your experiences.",non-bully
+125,You're deserving of love and kindness.",non-bully
+126,You're capable of handling whatever comes your way.,non-bully
+127,"""You're doing your best, and that's enough.",non-bully
+128,"""You're important and valued by those who know you.""",non-bully
+129,"""You're resilient. You can bounce back from setbacks.""",non-bully
+130,"""You're appreciated for who you are, flaws and all.""",non-bully
+131,"""You're on the right path. Keep moving forward.""",non-bully
+132,"""You're intelligent and capable of solving problems.""",non-bully
+133,"""You're respected for your integrity and honesty.""",non-bully
+134,"""You're a source of positivity and light.""",non-bully
+135,"""You're loved and cherished by those who matter.""",non-bully
+136,"""You're worthy of all the good things life has to offer.",non-bully
+137,"""You're making a difference in the world.""",non-bully
+138,"""You're brave for facing your fears.""",non-bully
+139,"""You're not defined by your mistakes. Learn and grow.""",non-bully
+140,"""You're a beacon of hope for others.""",non-bully
+141,You're appreciated for your hard work and dedication.,non-bully
+142,"""You're a role model for those around you.""",non-bully
+143,"""You're enough, just as you are",non-bully
+144,u sefelekoane,bully
+145,u mankhoshepe,bully
+146,u sebotho,bully
+147,wena u lemina,bully
+148,u lempete,bully
+149,wena u lihele,bully
+150,u moloi hampe,bully
+151,sekokotoana towe,bully
+152,sethotsela towe,bully
+153,malinkoana,bully
+154,nthoesele towe,bully
+155,thokolosi towe,bully
+156,u lelinyane la fariki,bully
+157,nthoe mpe ea,bully
+158,lelinyane towe,bully
+159,liabolosi towe,bully
+160,u marokolo,bully
+161,u tseketseke,bully
+162,u hene-hene,bully
+163,chakase mapota,bully
+164,seale malapa,bully
+165,ngoana mots'o enoa,bully
+166,nkahlama towe,bully
+167,fariki towe,bully
+168,ntja towe,bully
+169,fuck you ,bully
+170,voetsek,bully
+171,fotsek,bully
+172,fokof,bully
+173,ksooo,bully
+174,sebopuwa,bully
+175,lesofe towe,bully
+176,letla-lepepuwe,bully
+177,u mobe,bully
+178,ua nkha,bully
+179,ua ts'abeha,bully
+180,u lits'ila,bully
+181,mankhane towe,bully
+182,nxaaaaaa,bully
+183,sebolu towe,bully
+184,u bolile,bully
+185,moketa towe,bully
+186,bosulu towe,bully
+187,lelinyane la thokolosi,bully
+188,ts'oene towe,bully
+189,hopeless,bully
+190,noha,bully
+191,u ntho esele,bully
+192,u nthofela,bully
+193,u lekesi,bully
+194,u mokoto,bully
+195,ua khala,bully
+196,wortless,bully
+197,u mohetene,bully
+198,We love you,non-bully
+199,moshemane ,bully
+200,monna kaofela,non-bully
+201,mosali kaofela,non-bully
+202,morapeli oa sebele,non-bully
+203,motlotsuoa oa morena,non-bully
+204,mora molimo,non-bully
+205,matjekela ,bully
+206,nyanya mpe,bully
+207,o mobe,bully
+208,seleee tooe,bully
+209,foolish,bully
+210,provider,non-bully
+211,life saviour,non-bully
+212,redemmer,non-bully
+213,bread winner,non-bully
+214,winner,non-bully
+215,champion,non-bully
+216,useless,bully
+217,whore,bully
+218,useful,non-bully
+219,Ho utloisa ba bang bohloko ho ke ke ha lokisa mathata a hao.,non-bully
+220,Emela metsoalle ea hau 'me ba tla u emela.,non-bully
+221,Ho beha ba bang fat?e ho ke ke ha u holisa.,non-bully
+222,Tsohle bakeng sa e le nngwe le e le nngwe bakeng sa bohle.,non-bully
+223,Mmampodi. Ha ho Tsela. (Ho tsoa 'Musong oa Australia),non-bully
+224,U t?oara lintsintsi tse ngata ka mahe a linot?i ho feta ka asene!,non-bully
+225,Banna ba lokileng ha ba 'mampoli.,non-bully
+226,Ha ho ntho e kang ho soma ka botsoalle.,non-bully
+227,Ka linako tse ling ho thata ho ba monate ho feta ho bolela.,non-bully
+228,Emela mohlankana e monyenyane,non-bully
+229,Bompoli ke pefo ea maikutlo.,non-bully
+230,Mampoli ke lekoala. Motsoalle ke mohale.,non-bully
+231,Sebaka sa Mahala sa Bo-'mampoli.,non-bully
+232,Bo-'mampoli ha ba sireletsehe ka bona.,non-bully
+233,"Ha u se u holile, bompoli sekolong e tla ba masoabi a hao a maholo.",non-bully
+234,Bompoli bo t?eha lit?enyehelo tsa motho e mong?.,non-bully
+235,"Haeba u bona ho hong, bua ho hong.",non-bully
+236,"Bompoli: E-ba Bohlale, U se ke Ua Qala.",non-bully
+237,"Re tla ka Libopeho tsohle le boholo. Sekolong sa rona, re Amohela Tsohle.",non-bully
+238,Bompoli ke Tlolo ea Molao.,non-bully
+239,"Haeba u sa khone ho bua ntho e mosa, u se ke ua bua letho ho hang.",non-bully
+240,Bo-'mampoli ke li-wimps ho Disguise.,non-bully
+241,Lentsoe la Hao ke Libetsa. Na u tla li sebelisa bakeng sa Molemo kapa o Mobe?,non-bully
+242,Ha o tsebe hore na motho e mong o feta hara eng. Li t?oare ka bonolo!,non-bully
+243,Batla ba Khutsitseng le ba Hlomohileng. Ba hloka motsoalle.,non-bully
+244,Sebaka sa Qenehelo.,non-bully
+245,Mantsoe a ka ba Kotsi ho feta Libetsa.,non-bully
+246,Mantsoe a Mosa a ka pholosa Lefat?e.,non-bully
+247,Mantsoe a hau ke khetho ea hau.,non-bully
+248,E mong le e mong oa Amoheloa. E Mong le e Mong ke.,non-bully
+249,Ho tseba se nepahetseng ha ho bolele letho ntle le haeba u etsa se nepahetseng.,non-bully
+250,Liketso tsa hau li baloa. Ema ho Bompoli.,non-bully
+251,Bompoli bo Bobe. E utloisa Ba bang bohloko.,non-bully
+252,U se ke ua khutsa ha u tobane le ho hloka toka.,non-bully
+253,U na le Khetho ea ho Phahamisana kapa ho Hulelana.,non-bully
+254,otlanya maqhekoana ntja tooe,bully
+255,rarollotsoe,bully
+256,ascetic,bully
+257,ascetical,bully
+258,monastic,bully
+259,monkish,bully
+260,e thekeseleng,bully
+261,manganga a moulo,bully
+262,tiile,bully
+263,sa kgathatseheng,bully
+264,sa feleng,bully
+265,ikemiselitse ho leka hlee,bully
+266,ea sa tsitsang ka hloohong ka mona,bully
+267,hlokang mohau satane ,bully
+268,bohlasoa,bully
+269,a ba bohale ngoana lefetoa,bully
+270,rour,bully
+271,ea hlokang mohau moleko,bully
+272,ea tiileng pelo ena ruri ke moleko,bully
+273,kelello e le 'ngoe,bully
+274,sa sekisetseng,bully
+275,ntjatsoe,bully
+276,e sa tsitsang,bully
+277,thatafetse,bully
+278,e sa kobehang,bully
+279,tsitlella,bully
+280,mohala o thata,bully
+281,ho se t?oarele,bully
+282,e sa ineheleng,bully
+283,e hlokang qenehelo,bully
+284,bolaoli,bully
+285,e sa sisinyeheng,bully
+286,batla,bully
+287,sa tenyetseheng,bully
+288,e matla,bully
+289,ossified,bully
+290,hlokang mohau ntho tooe,bully
+291,e thata hlooho,bully
+292,adamantine,bully
+293,e nepahetseng,bully
+294,thatafetse,bully
+295,bohale,bully
+296,pelo e thata,bully
+297,a thata matsoho,bully
+298,o thatafetse ,bully
+299,u  thata,bully
+300,e thatafetse,bully
+301,boima,bully
+302,flinty,bully
+303,e ribetsoeng ka majoe,bully
+304,letla le pepuoe  ,bully
+305,ramrode,bully
+306,ka thata,bully
+307,hello,non-bully
+308,morning sunshine,non-bully
+309,God is good,non-bully
+310,morning everyone,non-bully
+311,lumelang ,non-bully
+312,morning,non-bully
+313,hey hi,non-bully
+314,hey there,non-bully
+315,rock  not the. He gives the emo populists limp wrist rocker throw.,bully
+316,Already on the coffee. I love her  but hate the whole spite thing. Climbed right on top of me to do it!,bully
+317,i feel fucking great get me another drink,bully
+318,You've got 5" of snow?  Damn.  I'm jealous.,bully
+319,It just sucks that so many use it as a crutch.,bully
+320,They say I have the best ass this side of fourteenth street.,bully
+321,yes i love the pillows  livejournal jrock rotations (get an lj  they're sick) and uhh fuck i dunno  twitter?? just the site,bully
+322,ha not that creepy. because it's week bullynon-bully and I'm fucking stressed out as hell. I wish I could take a trip down there x.x,bully
+323,Fuck  amen to that,bully
+324,Aww... Dnt hate the weather  rain can be so soothing sometimes!^^ I still have one more test DD:,bully
+325,I knw!!!!!  I hate that! D:,bully
+326,Aww. Thanks dear. And I hate my gradeschool friends for ditching me. They forgot about me when we are suppose to be at her wake.=(,bully
+327,yeah. i had to beg the stupid teacher. it was so gay.,bully
+328,yeah we all call her a whore and shes all don't call me that! So i called her a slut. And she said im a tease! And i told her  ...,bully
+329,told ya she was fat! she's loyal tho  she has this goin for her...,bully
+330,if you tweet about that damn song one more time.... And its on the Scion double disc promo cd,bully
+331,I have all th nerd at home and I'm a smart ass too. So I answered you,bully
+332,u got me lemming for some laneige whitening shit! ive been breakin out lately n i need somethin to whiten my damn acne scars bleh,bully
+333,you're not a twitter slut until you show us full frontal nudity... so until then you're just a tease =P,bully
+334,haha... so you want to be a twitter slut... alright  fine... i'll be waiting for the moment you mature from a tease to a slut!,bully
+335,and there were only 5 of us.. it was a night that i've already forgotten... damn the alcohol,bully
+336,I like the verses to the song....just not that lame ass auto tuning nigga on the hook,bully
+337,hold up nigga..u cant hate Jay-Z...might have to beat yo ass like that nigga did when that other guy said F Tupac...lmao,bully
+338,way to damn hard,bully
+339,the explosion of social media into mainstream business.  We will see everyone joining Twitter  its the "year of the nerd",bully
+340,but...but...to hate them is sin!!! just give me the ones you get angry with...i'll take care of them! hahaha,bully
+341,DOGS LICK THEIR ASS...NEED I SAY MORE? DOG.,bully
+342,No  I HATE those commercials! Just GROSS. *gag* Okay okay  you've got an hour before showtime. hehehe &#9829;,bully
+343,it was a joke haha. i figured id be emo too since everyone is complaining on here,bully
+344,It sucks though when you have nothing to do at 4AM and your roommate wants to sleep.,bully
+345,o so the rumors are true i am OBESE! yea fat!,bully
+346,girlfriend where the fuck did u find that photo! lmao!,bully
+347,ur a damn fool lmao,bully
+348,They're not my preference  but the app is so damn fast and thorough that I let it slide.,bully
+349, Ha! Yeah  that caught my attention  too. Now wait & watch for Red Wings fans to freak. I'm gonna make popcorn for that show :),bully
+350,Tell them you want YouTube to quit fucking with things that no one wants fucked with.,bully
+351,No  you just piss out anything your body won't absorb.,bully
+352,Doh! dont you hate it when that happens  I keep meaning to take a backup myself,bully
+353, If you won a million dollars what would you do with it?,non-bully
+354, What color is your hair?,non-bully
+355, heyyyyyy!!! how u doin!!!!!,non-bully
+356,  umm brian mcfaddern jokes umm umm umm i dont no to be honest so im going with santa reow lol =],non-bully
+357, Did you have a good day ??,non-bully
+358, you a sexxyy mommma =),non-bully
+359, one weird fact about you,non-bully
+360,  mr. taylor 7th grade english,non-bully
+361,  mes  they can be fun,non-bully
+362,  Hahaha ohhhhh  hi :)),non-bully
+363,  Carefree  fun  laughing  giggly  silly girl that loved barbies and using her imagination and learning and acting like she was older and more mature than she ever was.. :) haha,non-bully
+364,  i have a whole bunch! :D but the 2 memories i remember currently that are the best are with kelly and ashley. kelly being a kickass weekend filled with fun in slo and ashley being the renaissance faire and the 3oh!3 and cobra starship we went to :D,non-bully
+365,  i never said i liked pryce.,non-bully
+366, u ever play beer pong?,non-bully
+367, How do rumors get started?,non-bully
+368, why do we say &quot;heads up&quot; when we actually duck?,non-bully
+369,  the bs.,non-bully
+370,  ..be invisible and punch mean people in the back of the head...,non-bully
+371,  haha i like you to hahaha :),non-bully
+372,  The important bully is Love  bhut ive given people themselves! Like i let my friends have themselves instead of me! It helps to see who they are as a person! Very important! Viseversa.,non-bully
+373,  sureeee.,non-bully
+374,  ya damn rite,non-bully
+375, hi  do you like nachos?,non-bully
+376,  I would have to say currently..r my newest pair of brown skinny jeans and this polester teal crazy print off the shoulder blouse :] I feel super pretty in it!,non-bully
+377, How come sheep don&;t shrink when it rains?,non-bully
+378, Black or White?,non-bully
+379, Have you ever locked yourself out of a car?,non-bully
+380, U go to RMS?,non-bully
+381,  bien. which is good in spanish. hahaha musta?,non-bully
+382,  Baptist but im solo currently with the whole not going to church and all. I hate the overwelming feeling of having to go to church for the preacher  not the reason..GOd. Its whatever though.,non-bully
+383, Don&;t You Hate How People Make Fake Celerbity Pages? >.<,non-bully
+384, Are most of your dreams realistic (that it feels like it can actually happen in real life) or non realistic (you flying)?,non-bully
+385,  nope.,non-bully
+386, Who are you???????????????????????????,non-bully
+387, doodle,non-bully
+388, are you a registered voter?,non-bully
+389,  yes,non-bully
+390, does any one say you look like a celebrity? if so who? do u think they&;re right?,non-bully
+391,  >.< ily haha :),non-bully
+392, Heyyy. I am downloading songs at the moment. Would you mind helping me? Write your suggestions to my page  as in right now. :),non-bully
+393,  No,non-bully
+394, growl;],non-bully
+395,  nothing prolly. getting over a sinus infection and upper chest congestion,non-bully
+396, how is your mom,non-bully
+397, Do you look for quality or quantity?,non-bully
+398, What&;s your best trick?,non-bully
+399, How many licks does it take to get to the center of a lollipop?,non-bully
+400, :) Are you currently happy in your life right now?,non-bully
+401, Do you chew on your pens or pencils?,non-bully
+402, did you know gaga was on an episode of mtvs boiling point?,non-bully
+403,  they used to be and i like them to be that way but any more with timothy in my life they arent,non-bully
+404, followed! follow me also :),non-bully
+405, THE LAST MESSAGE WAS JUST FOR PEOPLE WHO ARE BEING RUDE IF YOUR NOT DISREGARD!!! :)) SORRY IF I OFFENDED ANY OF YOU!!!,non-bully
+406,  Indeed(: Lol,non-bully
+407, Favourite song atm (:,non-bully
+408,  because myspace is dead and FB is overrated. :) plus to expand my brain powers,non-bully
+409,  Orange Juice,non-bully
+410, Would you ever lick a hobo&;s foot?,non-bully
+411, lol funnyy childrenn. but slidinqq babe;!!    (insiderr juss forr yuu mikeyy.)) hmmm let&;s see let&;s see.,non-bully
+412, What are your plans for the rest of the day?,non-bully
+413,  fuck no! i live with a used-to-be sheriff  im careful with the law outside of my home :D,non-bully
+414, What color is your bedroom carpet?,non-bully
+415, Do you believe there&;s intelligent life on other planets?,non-bully
+416, When you looked at yourself in the mirror today  what was the first thing you thought?,non-bully
+417, Could you  would you eat a caterpillar?,non-bully
+418, What is the funniest nick-name someone you know has?,non-bully
+419,  well it sorta depends on what mood im in  like i cant really choose favorites,non-bully
+420, how do you make yourself happy?,non-bully
+421, Robot Chicken is a funny ass cartoon  in Cartoon Network for those who dont know :))) i watch it around bully2 :)),non-bully
+422,  nope never. would never.,non-bully
+423, what&;s your nationality?,non-bully
+424, ever tried dancing in the rain?,non-bully
+425,  But I know who you likee(:,non-bully
+426,  Thankss(:,non-bully
+427,  hahahha thank you :),non-bully
+428,  A loud shakin' dancing singin toy thats really colorful and makes little ones learn lots of stuff!! :],non-bully
+429,  You're very annoying,non-bully
+430, Jarrod is god.,non-bully
+431, Are you ready to start school? I am <3.,non-bully
+432,  depends :P,non-bully
+433, Good morning  sunshine! ^^ ,non-bully
+434, Girls; Do you like how you look in a bathing suit? Guys; Do you like you chick in a one pieec or two piece?,non-bully
+435, Do you make your bed daily?,non-bully
+436,  single!!!!!! gabe saporta has my heart at the moment ( he is the lead singer of cobra starship if you didnt know),non-bully
+437,  samantha locascio <3 lmao.r but no  i just have that there cuz i like it,non-bully
+438,  My old school shit   i wud SOOO throw it away bhut my mom! Urgh,non-bully
+439, If you could be invited to one person&;s birthday party  whose would it be?,non-bully
+440, whats the wierdest color you&;d ever dye your hair?,non-bully
+441, Wait. Are you Cheyenne? I sent a request to you? Wait  why is your name Tabitha?? R u fake????,non-bully
+442, you just shamed my people tabi.. you like making black rappers feel bad huh? makes you feel powerful? still you rock,non-bully
+443, are you a trusting person?,non-bully
+444, what if formspring did not exist?,non-bully
+445, What&;s the last play you saw?,non-bully
+446,  ..,non-bully
+447, Do you have any scars on your body?  If so  how&;d you get them?,non-bully
+448, Hey  hey Tabi. I guess you&;re not supposed to trust dead people! BHHAH :D,non-bully
+449,  eating oranges!!!!r CASSIE I LOVE YOU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,non-bully
+450, What&;s one thing you hate the feeling of?,non-bully
+451,  yes of course. i would love to be a pirate. always. errrgg.,non-bully
+452, In what country other than your own would you like to live?,non-bully
+453,  show your face,non-bully
+454, Was the last time your heart pounded like crazy for a good or bad reason?,non-bully
+455,  Last night about bullybully o'clock,non-bully
+456,  Life is never going to be easy.,non-bully
+457, How do you feel when someone disagrees with everything you have to say?,non-bully
+458,  alrighty !,non-bully
+459, would you still consider your self as a true friend if you don&;t tell anyone but you allow your friend to do it? what&;s your opinion with that kind of a friend?,non-bully
+460,  yes.,non-bully
+461, hahahahahhahahhaahhahahahah vvv ayee fix yerr infoooo ->>,non-bully
+462,  ExpLOrE tHe WOrlD   :D,non-bully
+463, i love you tabi!!! <3 (:,non-bully
+464, r u gnon-bullynon-bullyd at art,non-bully
+465, What&;s your worst habit?,non-bully
+466,  hahahaha thanks i think? did you call me beautiful? thats a first <3,non-bully
+467,  summer :],non-bully
+468, Bugs Bunny or Mickey Mouse?,non-bully

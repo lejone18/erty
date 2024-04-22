@@ -1,0 +1,74 @@
+id,bullying_words,type_bully
+1000,Hate,bully
+1001,Insult  ,bully
+1002,Threat   ,bully
+1003,Mockery  ,bully
+1004,Tease     ,bully
+1005,Disagree ,non
+1006,Debate   ,non
+1007,Dislike   ,non
+1008,Criticize ,non
+1009,Disagree   ,non
+1010,"You're so dumb, you can't even understand simple things",bully
+1011,Why are you even here? Nobody likes you,bully
+1012,"You're such a loser, always trying to fit in but never succeeding",bully
+1013,Nobody cares about what you have to say. Just shut up already,bully
+1014,You're ugly and nobody will ever love you,bully
+1015,I can't believe how pathetic you are. Get a life!,bully
+1016,You're a waste of space. Why don't you just disappear?,bully
+1017,Everyone laughs at you behind your back because you're a joke,bully
+1018,You'll never amount to anything. Might as well give up now,bully
+1019,Nobody wants to be around you. You're better off alone,bully
+1020,You're such a crybaby. Can't handle a little criticism?,bully
+1021,Why do you even bother trying? You'll never be good enough.,bully
+1022,You're so weak. I can't believe you let things get to you.,bully
+1023,You are a loser and always will be. Just accept it,bully
+1024,You're so boring. Nobody wants to hear what you have to say,bully
+1025,You're such a try-hard. Just give up already.,bully
+1026,"""Why are you even alive? You contribute nothing to this world.",bully
+1027,You're so fat and ugly. No wonder nobody likes you.,bully
+1028,You're so worthless. I don't know why anyone would be friends with you.,bully
+1029,You're such a failure. Just stop embarrassing yourself,bully
+1030,You're a joke. Everyone laughs at how pathetic you are.,bully
+1031,Nobody cares about your feelings. You're just an inconvenience.,bully
+1032,You're so annoying. Just go away and leave us alone.,bully
+1033,You'll never succeed at anything. Might as well give up now.,bully
+1034,Why do you even bother trying? You'll never be good enough.,bully
+1035,You're so weak. I can't believe you let things get to you.,bully
+1036,You're such a disappointment. I expected better from you.,bully
+1037,You're such a burden. Nobody wants to deal with your problems,bully
+1038,You're so useless. Can't even do the simplest tasks right.,bully
+1039,You're a waste of space. Nobody would miss you if you were gone,bully
+1040,You're doing great! Keep up the good work,non
+1041,You're a wonderful person inside and out.,non
+1042,You always bring positivity to those around you,non
+1043,You're making a difference in people's lives.,non
+1044,You have a beautiful soul that shines brightly,non
+1045,You're so talented and capable. Believe in yourself!,non
+1046,You're a ray of sunshine on even the gloomiest days,non
+1047,You're valuable and worthy of all the good things in life.,non
+1048,You inspire others with your kindness and compassion.,non
+1049,You're not alone. We're here to support you.,non
+1050,Oa phapha,bully
+1051,letekatsi,bully
+1052,lefetoa,bully
+1053,moleko,bully
+1054,satane,bully
+1055,mosima,bully
+1056,sekatana,bully
+1057,baehlotse,bully
+1058,sepepeloa le borotho,bully
+1059,o nyamoleile,bully
+1060,lekoala,bully
+1061,mphophotha,bully
+1062,sehole,bully
+1063,tseketseke,bully
+1064,O hatile lipapa,bully
+1065,Lefatsheng mona hase ha mmao,bully
+1066,You are a failure,bully
+1067,U sehole,bully
+1068,You're worthless,bully
+1069,Nxa,bully
+1070,Siche hlooho,bully
+1071,loser,bully
+1072,Lefatsheng mona hase ha mmao,bully
